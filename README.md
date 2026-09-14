@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://rainhuang0220.github.io/whereToken/profile/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://rainhuang0220.github.io/whereToken/profile/preview-dark.svg?v=d5c80d5df5fdb75035575fdc5453c143a65c755e351ace804f2bbc729bec63c4">
-      <source media="(prefers-color-scheme: light)" srcset="https://rainhuang0220.github.io/whereToken/profile/preview-light.svg?v=d5c80d5df5fdb75035575fdc5453c143a65c755e351ace804f2bbc729bec63c4">
-      <img src="https://rainhuang0220.github.io/whereToken/profile/preview-light.svg?v=d5c80d5df5fdb75035575fdc5453c143a65c755e351ace804f2bbc729bec63c4" width="800" alt="whereToken public coding-agent usage; click to open the live profile">
+      <source media="(prefers-color-scheme: dark)" srcset="https://rainhuang0220.github.io/whereToken/profile/preview-dark.svg?v=8de0b5bdeeffe5aa8d4feb44a268886e650b319f9ba9d77c46d19c8d1451874f">
+      <source media="(prefers-color-scheme: light)" srcset="https://rainhuang0220.github.io/whereToken/profile/preview-light.svg?v=8de0b5bdeeffe5aa8d4feb44a268886e650b319f9ba9d77c46d19c8d1451874f">
+      <img src="https://rainhuang0220.github.io/whereToken/profile/preview-light.svg?v=8de0b5bdeeffe5aa8d4feb44a268886e650b319f9ba9d77c46d19c8d1451874f" width="800" alt="whereToken public coding-agent usage; click to open the live profile">
     </picture>
   </a>
 </p>
