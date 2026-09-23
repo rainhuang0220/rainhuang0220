@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 194" width="800" height="194" role="img">
 <title>whereToken public coding-agent usage preview</title>
-<desc>Coding-agent token usage through 2026-09-23. No prompts, paths, or identifiers.</desc>
-<metadata id="wheretoken-snapshot-id">sha256:ecd5594997597c6095f6f66c33ead898c159f93fb0f9dcdaab5f2418e195f3df</metadata>
+<desc>Coding-agent token usage through 2026-08-16. No prompts, paths, or identifiers.</desc>
+<metadata id="wheretoken-snapshot-id">sha256:1de5e137a0613a44e46575864ee8fcad502f06f1062eeecfa5ee59656b0fee6c</metadata>
 <text x="4.0" y="19.0" fill="#1F2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.0" font-weight="600" text-anchor="start">whereToken</text>
 <text x="86.0" y="19.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.0" font-weight="400" text-anchor="start">my coding-agent token usage</text>
-<text x="796.0" y="19.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.0" font-weight="400" text-anchor="end">updated Sep 23</text>
+<text x="796.0" y="19.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.0" font-weight="400" text-anchor="end">updated Aug 16</text>
 <line x1="4" y1="31.5" x2="796" y2="31.5" stroke="#D1D9E0" stroke-width="1"/>
-<text x="4.0" y="65.0" fill="#1F2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30.0" font-weight="600" text-anchor="start">5.1B tokens</text>
-<text class="month" x="28.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Sep</text>
-<text class="month" x="57.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Oct</text>
-<text class="month" x="115.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Nov</text>
-<text class="month" x="173.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Dec</text>
-<text class="month" x="245.5" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Jan</text>
-<text class="month" x="303.5" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Feb</text>
-<text class="month" x="361.5" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Mar</text>
-<text class="month" x="434.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Apr</text>
-<text class="month" x="492.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">May</text>
-<text class="month" x="550.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Jun</text>
-<text class="month" x="622.5" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Jul</text>
-<text class="month" x="680.5" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Aug</text>
-<text class="month" x="753.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Sep</text>
+<text x="4.0" y="65.0" fill="#1F2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30.0" font-weight="600" text-anchor="start">11.68M tokens</text>
+<text class="month" x="28.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Aug</text>
+<text class="month" x="71.5" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Sep</text>
+<text class="month" x="144.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Oct</text>
+<text class="month" x="202.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Nov</text>
+<text class="month" x="260.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Dec</text>
+<text class="month" x="332.5" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Jan</text>
+<text class="month" x="390.5" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Feb</text>
+<text class="month" x="448.5" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Mar</text>
+<text class="month" x="521.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Apr</text>
+<text class="month" x="579.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">May</text>
+<text class="month" x="637.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Jun</text>
+<text class="month" x="709.5" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Jul</text>
+<text class="month" x="767.5" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Aug</text>
 <text class="weekday" x="22.0" y="98.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="end">Mon</text>
 <text class="weekday" x="22.0" y="127.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="end">Wed</text>
 <text class="weekday" x="22.0" y="156.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="end">Fri</text>
@@ -165,18 +165,18 @@
 <rect class="day" x="303.5" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="303.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="318.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="318.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#B2CEFD"/>
-<rect class="day" x="318.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#A4C6FD"/>
-<rect class="day" x="318.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#72A6FC"/>
-<rect class="day" x="318.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#BDD6FD"/>
+<rect class="day" x="318.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="318.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="318.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="318.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="318.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="318.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#B6D1FD"/>
+<rect class="day" x="318.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="332.5" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="332.5" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="332.5" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="332.5" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="332.5" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="332.5" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#B8D2FD"/>
+<rect class="day" x="332.5" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="332.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="347.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="347.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
@@ -185,13 +185,13 @@
 <rect class="day" x="347.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="347.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="347.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="361.5" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#BDD5FD"/>
+<rect class="day" x="361.5" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="361.5" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="361.5" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="361.5" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="361.5" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#A6C7FD"/>
-<rect class="day" x="361.5" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#A1C4FD"/>
-<rect class="day" x="361.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#BCD5FD"/>
+<rect class="day" x="361.5" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="361.5" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="361.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="376.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="376.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="376.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
@@ -211,23 +211,23 @@
 <rect class="day" x="405.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="405.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="405.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="405.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#9DC2FD"/>
+<rect class="day" x="405.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="405.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="419.5" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="419.5" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="419.5" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="419.5" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#ADCBFD"/>
+<rect class="day" x="419.5" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="419.5" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="419.5" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="419.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="434.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#BDD5FD"/>
+<rect class="day" x="434.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="434.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="434.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="434.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="434.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="434.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="434.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="448.5" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#B6D1FD"/>
+<rect class="day" x="448.5" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="448.5" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="448.5" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="448.5" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
@@ -236,7 +236,7 @@
 <rect class="day" x="448.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="463.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="463.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="463.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#B4D0FD"/>
+<rect class="day" x="463.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="463.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="463.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="463.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
@@ -251,7 +251,7 @@
 <rect class="day" x="492.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="492.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="492.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="492.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#B0CDFD"/>
+<rect class="day" x="492.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="492.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="492.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="492.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
@@ -273,8 +273,8 @@
 <rect class="day" x="535.5" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="535.5" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="535.5" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="535.5" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#97BEFD"/>
-<rect class="day" x="535.5" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#B1CEFD"/>
+<rect class="day" x="535.5" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="535.5" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="535.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="550.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="550.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
@@ -331,68 +331,68 @@
 <rect class="day" x="651.5" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="651.5" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="651.5" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="651.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#AACAFD"/>
-<rect class="day" x="666.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#A4C6FD"/>
+<rect class="day" x="651.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="666.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="666.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="666.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#B4D0FD"/>
-<rect class="day" x="666.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#C0D7FD"/>
+<rect class="day" x="666.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="666.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="666.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="666.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#568EEB"/>
-<rect class="day" x="666.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#6198F2"/>
-<rect class="day" x="680.5" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#AACAFD"/>
-<rect class="day" x="680.5" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#B7D2FD"/>
+<rect class="day" x="666.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="666.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="680.5" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="680.5" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="680.5" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="680.5" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="680.5" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="680.5" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="680.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#6FA4FC"/>
-<rect class="day" x="695.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#81B0FC"/>
-<rect class="day" x="695.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#98BEFD"/>
-<rect class="day" x="695.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#B9D3FD"/>
-<rect class="day" x="695.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#9CC1FD"/>
-<rect class="day" x="695.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#417BDD"/>
-<rect class="day" x="695.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#6CA1F9"/>
+<rect class="day" x="680.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="695.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="695.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="695.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="695.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="695.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="695.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="695.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="709.5" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="709.5" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="709.5" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="709.5" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#5E95F0"/>
+<rect class="day" x="709.5" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="709.5" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="709.5" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="709.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#7AABFC"/>
-<rect class="day" x="724.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#3672D5"/>
-<rect class="day" x="724.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#5990ED"/>
-<rect class="day" x="724.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#2C69CF"/>
-<rect class="day" x="724.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#B6D1FD"/>
-<rect class="day" x="724.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#9EC2FD"/>
-<rect class="day" x="724.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#518AE8"/>
-<rect class="day" x="724.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#4D86E5"/>
-<rect class="day" x="738.5" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#4E87E5"/>
-<rect class="day" x="738.5" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#3A76D8"/>
-<rect class="day" x="738.5" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#4882E2"/>
-<rect class="day" x="738.5" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#2564CA"/>
-<rect class="day" x="738.5" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#3470D5"/>
-<rect class="day" x="738.5" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#9BC0FD"/>
-<rect class="day" x="738.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#6197F2"/>
+<rect class="day" x="709.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="724.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="724.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="724.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="724.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="724.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="724.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="724.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="738.5" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="738.5" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="738.5" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="738.5" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="738.5" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="738.5" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="738.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="753.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="753.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#A6C7FD"/>
+<rect class="day" x="753.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="753.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="753.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="753.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#96BDFD"/>
-<rect class="day" x="753.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#568EEB"/>
-<rect class="day" x="753.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#4D86E5"/>
-<rect class="day" x="767.5" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#457FE0"/>
-<rect class="day" x="767.5" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#3E79DB"/>
-<rect class="day" x="767.5" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#5D94EF"/>
-<rect class="day" x="767.5" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#76A9FC"/>
+<rect class="day" x="753.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="753.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="753.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="767.5" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="767.5" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="767.5" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="767.5" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="767.5" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="767.5" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="767.5" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="782.0" y="88.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
-<rect class="day" x="782.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#7DADFC"/>
-<rect class="day" x="782.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#3A76D8"/>
-<rect class="day" x="782.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#F6F8FA"/>
-<rect class="day" x="782.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#F6F8FA"/>
-<rect class="day" x="782.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#F6F8FA"/>
-<rect class="day" x="782.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#F6F8FA"/>
+<rect class="day" x="782.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="782.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="782.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="782.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
+<rect class="day" x="782.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#A1C4FD"/>
+<rect class="day" x="782.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#B5D1FD"/>
 </svg>
