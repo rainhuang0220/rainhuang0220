@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 194" width="800" height="194" role="img">
 <title>whereToken public coding-agent usage preview</title>
 <desc>Coding-agent token usage through 2026-10-02. No prompts, paths, or identifiers.</desc>
-<metadata id="wheretoken-snapshot-id">sha256:39e4cc6e53490fd58e51271ba1215478935be64ad16faf9b070144eb403e576b</metadata>
+<metadata id="wheretoken-snapshot-id">sha256:d30784bd8ed6d2346a3740fdee04bda7776881b582b2476ff19d4b55ce8725a0</metadata>
 <text x="4.0" y="19.0" fill="#1F2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.0" font-weight="600" text-anchor="start">whereToken</text>
 <text x="86.0" y="19.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.0" font-weight="400" text-anchor="start">my coding-agent token usage</text>
 <text x="796.0" y="19.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.0" font-weight="400" text-anchor="end">updated Oct 2</text>
@@ -391,7 +391,7 @@
 <rect class="day" x="782.0" y="102.5" width="13.0" height="13.0" rx="1.5" fill="#3571D5"/>
 <rect class="day" x="782.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#558DEA"/>
 <rect class="day" x="782.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#548CEA"/>
-<rect class="day" x="782.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#5B93EE"/>
+<rect class="day" x="782.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#5B92EE"/>
 <rect class="day" x="782.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#F6F8FA"/>
 <rect class="day" x="782.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#F6F8FA"/>
 </svg>
