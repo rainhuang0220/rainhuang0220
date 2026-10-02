@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 194" width="800" height="194" role="img">
 <title>whereToken public coding-agent usage preview</title>
-<desc>Coding-agent token usage through 2026-10-02. No prompts, paths, or identifiers.</desc>
-<metadata id="wheretoken-snapshot-id">sha256:38de5a510b69e96b2cf81a50af8bceeba00ffe01375673c103a157ea77acc25e</metadata>
+<desc>Coding-agent token usage through 2026-10-03. No prompts, paths, or identifiers.</desc>
+<metadata id="wheretoken-snapshot-id">sha256:a7395165a2998169eb39e301b902c90f17138bf019f04263c944f5d10f739b4e</metadata>
 <text x="4.0" y="19.0" fill="#1F2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.0" font-weight="600" text-anchor="start">whereToken</text>
 <text x="86.0" y="19.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.0" font-weight="400" text-anchor="start">my coding-agent token usage</text>
-<text x="796.0" y="19.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.0" font-weight="400" text-anchor="end">updated Oct 2</text>
+<text x="796.0" y="19.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.0" font-weight="400" text-anchor="end">updated Oct 3</text>
 <line x1="4" y1="31.5" x2="796" y2="31.5" stroke="#D1D9E0" stroke-width="1"/>
 <text x="4.0" y="65.0" fill="#1F2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30.0" font-weight="600" text-anchor="start">14.23B tokens</text>
 <text class="month" x="28.0" y="82.0" fill="#59636E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="8.0" font-weight="500" text-anchor="start">Sep</text>
@@ -392,6 +392,6 @@
 <rect class="day" x="782.0" y="117.0" width="13.0" height="13.0" rx="1.5" fill="#558DEA"/>
 <rect class="day" x="782.0" y="131.5" width="13.0" height="13.0" rx="1.5" fill="#548CEA"/>
 <rect class="day" x="782.0" y="146.0" width="13.0" height="13.0" rx="1.5" fill="#447EDF"/>
-<rect class="day" x="782.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#F6F8FA"/>
+<rect class="day" x="782.0" y="160.5" width="13.0" height="13.0" rx="1.5" fill="#EFF2F5"/>
 <rect class="day" x="782.0" y="175.0" width="13.0" height="13.0" rx="1.5" fill="#F6F8FA"/>
 </svg>
