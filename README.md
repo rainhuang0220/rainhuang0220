@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://rainhuang0220.github.io/whereToken/profile/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rainhuang0220/rainhuang0220/main/wheretoken/preview-dark.svg?v=21bedeb3764db754dfc1d8db4546622864dfa6776ce5f631ab7709fe1a7c806a-8c083bc1c7fede07e3856e760040fed4669f126989276748da0229fa817f7ab9">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rainhuang0220/rainhuang0220/main/wheretoken/preview-light.svg?v=21bedeb3764db754dfc1d8db4546622864dfa6776ce5f631ab7709fe1a7c806a-8c083bc1c7fede07e3856e760040fed4669f126989276748da0229fa817f7ab9">
-      <img src="https://raw.githubusercontent.com/rainhuang0220/rainhuang0220/main/wheretoken/preview-light.svg?v=21bedeb3764db754dfc1d8db4546622864dfa6776ce5f631ab7709fe1a7c806a-8c083bc1c7fede07e3856e760040fed4669f126989276748da0229fa817f7ab9" width="800" alt="Coding activity snapshot: 14.31B measured tokens, partial coverage, updated October 4, 2026">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rainhuang0220/rainhuang0220/main/wheretoken/preview-dark.svg?v=7add9a63205291cc5e0ae3f6fac27602f439b32b668724d3d4ce2f883509c3e3-0a5cfe4141550cbea603e4a93c62a921a6f8935600cf65b64cf690be38506512">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rainhuang0220/rainhuang0220/main/wheretoken/preview-light.svg?v=7add9a63205291cc5e0ae3f6fac27602f439b32b668724d3d4ce2f883509c3e3-0a5cfe4141550cbea603e4a93c62a921a6f8935600cf65b64cf690be38506512">
+      <img src="https://raw.githubusercontent.com/rainhuang0220/rainhuang0220/main/wheretoken/preview-light.svg?v=7add9a63205291cc5e0ae3f6fac27602f439b32b668724d3d4ce2f883509c3e3-0a5cfe4141550cbea603e4a93c62a921a6f8935600cf65b64cf690be38506512" width="800" alt="Coding activity snapshot: 14.31B measured tokens, partial coverage, updated October 4, 2026">
     </picture>
   </a>
 </p>
